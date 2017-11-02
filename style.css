@@ -1,0 +1,23 @@
+#btn {
+   padding: 10px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}
+
+h1 {
+   text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+li {
+    border-bottom: 1px solid grey;
+    padding: 10px;
+    border-bottom-style:dotted;
+}
+.active{background: #abc;}
